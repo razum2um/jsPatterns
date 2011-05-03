@@ -1,0 +1,5 @@
+It's a small thing, which allows to intergate with some Django code of ListView.
+Actually, it's implementaion is usable if you wish something like jqGrid, but
+without a table itself.
+
+Just point smart* options on links
